@@ -103,6 +103,12 @@ const LeavingCard = () => {
 			message: "Hey Ben, it has been so lovely getting to work alongside you in the Edinburgh office. You were so welcoming when Forecast invaded and it's been great getting to know you and hear about your theatre stuff. All the best. Hannah",
 			timestamp: 1763481390,
 		}
+		{
+			name: "Nick Jolliffe",
+			role: "Recovery Officer",
+			message: "Ben, gutted we don't get to work with each other anymore, maybe it will happen again in the future! Cannot believe it's 4 years since DH days, wishing you all the luck in the future, who ever gets to work with you next will soon find out how lucky they are. NJ :)",
+			timestamp: 1763481390,
+		}
 	];
 
 	if (isLoading) {
